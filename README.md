@@ -1,7 +1,5 @@
 # Car Resale Price Prediction System
 
-![Car Resale Price Prediction System](car-resale.png)
-
 ## Table of Contents
 
 1. [Introduction](#introduction)
